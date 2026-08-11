@@ -1,2 +1,2 @@
-# asignacion_python_1
+# estructura
 proyecto python 1
